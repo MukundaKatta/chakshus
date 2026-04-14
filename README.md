@@ -1,6 +1,6 @@
 # chakshus — Multi-Modal Vision Pipeline. Multi-modal vision pipeline
 
-Multi-Modal Vision Pipeline. Multi-modal vision pipeline. chakshus gives you a focused, inspectable implementation of that idea.
+Multi-Modal Vision Pipeline. Multi-modal vision pipeline.
 
 ## Why chakshus
 
